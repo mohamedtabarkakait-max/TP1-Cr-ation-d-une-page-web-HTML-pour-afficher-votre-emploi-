@@ -5,7 +5,9 @@
         </title>
     </head>
     <body>
-          <h2 style ="text-align: right; "> annee universitaire 2025-2026</h2>
+        <img src ="logo.jpeg"width="400" height="100" alight="right>
+          <h2 style ="text-align: right; "> Annee universitaire 2025-2026</h2>
+            <img src ="signature.jpeg"width="150" height="70">
              <h2 align="center">Epmloi du temps << previsoire >> --- IAIL-S2 </h2>
                 <table border="1">
                 <tr>
